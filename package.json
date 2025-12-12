@@ -97,6 +97,7 @@
     ]
   },
   "dependencies": {
+    "@zapier/ai-actions": "1.1.18",
     "body-parser": "^1.19.0",
     "check-dependencies": "^1.1.0",
     "clarinet": "^0.12.4",
